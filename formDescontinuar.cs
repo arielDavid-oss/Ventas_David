@@ -10,7 +10,6 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 
 
-
 namespace Ventas_David
 {
     public partial class frmDescontinuarProd : Form
